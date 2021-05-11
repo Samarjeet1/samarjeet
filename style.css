@@ -42,8 +42,8 @@ body{
 }
 .pimage{
     display: flex;
-    width: 60%;
-    height: 150px;
+    width: 50%;
+    height: 200px;
     min-width: 100px;
 }
 .separator{
